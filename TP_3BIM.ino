@@ -1,9 +1,9 @@
 // Ejercicio evaluatorio 3er bimestre
 /*
   Integrantes
-    Nombre:
-    Apellido:
-    Curso:
+    Nombre: Uriel
+    Apellido: Gandelman
+    Curso: 3C TIC
     
     Nombre:
     Apellido:
