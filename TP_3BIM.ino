@@ -5,9 +5,6 @@
     Apellido: Gandelman
     Curso: 3C TIC
     
-    Nombre:
-    Apellido:
-    Curso:
   
 Congisgnas
   Conexionado:
@@ -15,14 +12,14 @@ Congisgnas
     Se debe conectar tambien, un pulsador que permita recibir información de un usuario.
     Indicar a continuación los pines a los cuales se conectó cada elemento y el valor de resistencias utilizado:
       Pines:
-        Boton:
-        LED1:
-        LED2:
-        LED3:
-        LED4:
+        Boton:2
+        LED1:3
+        LED2:4
+        LED3:5
+        LED4:6
       Valor:
-        R_boton:
-        R_LEDs:
+        R_boton: 820 k OMHS
+        R_LEDs: 330 OMHS
 
   Progamas:
     Se deben entregar un programa distinto por cada punto. Los programas son una modificación entre ellos.
